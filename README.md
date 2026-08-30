@@ -15,9 +15,6 @@ This repository contains my QA testing and automation projects, created to demon
 * **Other:** Bug Reporting, Agile/Scrum, SDLC, STLC
 
 ## 📂 Projects
-
-Projects will be added gradually.
-
 | Project               | Technology              | Description                              |
 | --------------------- | ----------------------- | ---------------------------------------- |
 | Playwright Automation | Playwright + TypeScript | UI automation test suite                 |

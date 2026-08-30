@@ -43,8 +43,10 @@ This repository contains my QA testing and automation projects, created to demon
 
 ## 📫 Contact
 
-GitHub: [Your GitHub Profile]
+GitHub: [qa-automation-portfolioqa-automation-portfolio
+Public]
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: [www.linkedin.com/in/jeniferdavid13]
+
 # qa-automation-portfolio
 QA Automation portfolio showcasing Playwright, TypeScript, API testing, SQL, and CI/CD projects.
